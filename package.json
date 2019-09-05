@@ -1,0 +1,14 @@
+{
+  "name": "events",
+  "private": true,
+  "description": "...",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/michaelord/events.git"
+  },
+  "devDependencies": {},
+  "author": "michaelord",
+  "keywords": []
+}
