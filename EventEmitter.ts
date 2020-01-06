@@ -1,6 +1,3 @@
-// https://basarat.gitbooks.io/typescript/docs/tips/typed-event.html
-// https://dev.to/tunaxor/the-beautiful-thing-called-eventemitter-23ei
-
 const EVENTS: any = {};
 
 class EventEmitter {
